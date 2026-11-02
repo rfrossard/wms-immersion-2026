@@ -1,9 +1,13 @@
 # WMS Immersion — Silicon Valley, October 2026
 
-Interactive editorial report. The HTML includes all styles, scripts, fonts and images and can be read offline in a browser.
+Edição atualizada em 2 de novembro de 2026.
+
+Relatório editorial interativo em HTML único, com estilos, scripts, fontes e imagens incorporados para leitura offline no navegador.
 
 Online: https://rfrossard.github.io/wms-immersion-2026/
 
-Download the HTML: https://github.com/rfrossard/wms-immersion-2026/releases/latest
+Download direto da edição mais recente: https://github.com/rfrossard/wms-immersion-2026/releases/latest/download/WMS-Immersion-Silicon-Valley.html
 
-The report contains public research and material supplied by the organizer; it is not a transcript of meetings. Embedded font licenses and original image credits are retained.
+Esta edição inclui cinco takeways estratégicos, seis próximos passos numerados e os ajustes de navegação e identidade visual aprovados pelo organizador.
+
+O relatório contém pesquisa pública e material fornecido pelo organizador; não é uma transcrição de reuniões. Licenças das fontes e créditos originais das imagens foram preservados.
